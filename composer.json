@@ -1,7 +1,6 @@
 {
     "name": "sparkresearch/momo",
     "description": "MongoDB Modeler for PHP",
-    "version": "1.0.0",
     "type": "library",
     "keywords": ["mongodb", "odm", "model"],
     "homepage": "https://github.com/sparkresearch/momo/",
