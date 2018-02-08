@@ -1,0 +1,33 @@
+{
+    "name": "sparkresearch/momo",
+    "description": "MongoDB Modeler for PHP",
+    "version": "0.0.1",
+    "type": "library",
+    "keywords": ["mongodb", "odm", "model"],
+    "homepage": "https://github.com/sparkresearch/momo/",
+    "time": "2018-02-08",
+    "license": "BSD-3",
+    "authors": [
+        {
+            "name": "Jason Go",
+            "email": "jasongo@sparkresearch.net",
+            "homepage": "https://github.com/sparkresearch/momo/",
+            "role": "Developer"
+        }
+     ],
+    "support": {
+        "email": "jasongo@sparkresearch.net",
+        "issues": "https://github.com/sparkresearch/momo/issues",
+        "docs": "https://github.com/sparkresearch/momo/wiki"
+    },
+    "require": {
+        "php": ">=7.0",
+      "mongodb/mongodb": "^1.1",
+      "ext-mongodb":"*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Momo\\": "/",
+        }
+    }
+}
