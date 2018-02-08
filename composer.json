@@ -6,7 +6,7 @@
     "keywords": ["mongodb", "odm", "model"],
     "homepage": "https://github.com/sparkresearch/momo/",
     "time": "2018-02-08",
-    "license": "BSD-3",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Jason Go",
